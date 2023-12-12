@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/proyecto-web/static/css/main.348e7cff.css",
+    "main.js": "/proyecto-web/static/js/main.88c3eda8.js",
+    "static/js/787.1c5f2032.chunk.js": "/proyecto-web/static/js/787.1c5f2032.chunk.js",
+    "static/media/6.jpg": "/proyecto-web/static/media/6.ebe3ef5375fd333c4056.jpg",
+    "static/media/2.jpg": "/proyecto-web/static/media/2.591bacaf90c25ce49e0d.jpg",
+    "static/media/banner-bg.png": "/proyecto-web/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/proyecto-web/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/proyecto-web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/proyecto-web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/logo.jpg": "/proyecto-web/static/media/logo.fc681fd862fd594322c1.jpg",
+    "static/media/logo.svg": "/proyecto-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/proyecto-web/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/proyecto-web/index.html",
+    "static/media/nav-icon1.svg": "/proyecto-web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/proyecto-web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.348e7cff.css.map": "/proyecto-web/static/css/main.348e7cff.css.map",
+    "main.88c3eda8.js.map": "/proyecto-web/static/js/main.88c3eda8.js.map",
+    "787.1c5f2032.chunk.js.map": "/proyecto-web/static/js/787.1c5f2032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348e7cff.css",
+    "static/js/main.88c3eda8.js"
+  ]
+}
