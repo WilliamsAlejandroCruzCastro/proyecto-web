@@ -1,26 +1,38 @@
 {
   "files": {
-    "main.css": "/proyecto-web/static/css/main.348e7cff.css",
-    "main.js": "/proyecto-web/static/js/main.88c3eda8.js",
+    "main.css": "/proyecto-web/static/css/main.f069f2b7.css",
+    "main.js": "/proyecto-web/static/js/main.e950b232.js",
     "static/js/787.1c5f2032.chunk.js": "/proyecto-web/static/js/787.1c5f2032.chunk.js",
+    "static/media/Colegio San Francisco (Aniv. 2022)(360P).mp4": "/proyecto-web/static/media/Colegio San Francisco (Aniv. 2022)(360P).50b394324103b9973645.mp4",
     "static/media/6.jpg": "/proyecto-web/static/media/6.ebe3ef5375fd333c4056.jpg",
+    "static/media/4.jpg": "/proyecto-web/static/media/4.ecb12133e746a775cd09.jpg",
+    "static/media/8.jpg": "/proyecto-web/static/media/8.9d6328fe321bb366dc7a.jpg",
+    "static/media/5.jpg": "/proyecto-web/static/media/5.37ce2518170de7cfc17b.jpg",
+    "static/media/3.jpg": "/proyecto-web/static/media/3.89fe52deb660b5d6a6c6.jpg",
+    "static/media/11.jpg": "/proyecto-web/static/media/11.3c53575a9996538baf4f.jpg",
+    "static/media/15.jpg": "/proyecto-web/static/media/15.001f501323f078b1ed48.jpg",
     "static/media/2.jpg": "/proyecto-web/static/media/2.591bacaf90c25ce49e0d.jpg",
-    "static/media/banner-bg.png": "/proyecto-web/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/0.jpg": "/proyecto-web/static/media/0.6b5c88b71c4629c2570a.jpg",
+    "static/media/ubicacion.png": "/proyecto-web/static/media/ubicacion.bbd2b2077a3fd3ef23f9.png",
+    "static/media/10.jpg": "/proyecto-web/static/media/10.bece2f923df762407480.jpg",
     "static/media/CentraNo2-Bold.ttf": "/proyecto-web/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/proyecto-web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/proyecto-web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/logo.jpg": "/proyecto-web/static/media/logo.fc681fd862fd594322c1.jpg",
+    "static/media/revicons.eot": "/proyecto-web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/proyecto-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/proyecto-web/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/logo.svg": "/proyecto-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nav-icon3.svg": "/proyecto-web/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/proyecto-web/index.html",
     "static/media/nav-icon1.svg": "/proyecto-web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/proyecto-web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.348e7cff.css.map": "/proyecto-web/static/css/main.348e7cff.css.map",
-    "main.88c3eda8.js.map": "/proyecto-web/static/js/main.88c3eda8.js.map",
+    "main.f069f2b7.css.map": "/proyecto-web/static/css/main.f069f2b7.css.map",
+    "main.e950b232.js.map": "/proyecto-web/static/js/main.e950b232.js.map",
     "787.1c5f2032.chunk.js.map": "/proyecto-web/static/js/787.1c5f2032.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.348e7cff.css",
-    "static/js/main.88c3eda8.js"
+    "static/css/main.f069f2b7.css",
+    "static/js/main.e950b232.js"
   ]
 }
